@@ -1,6 +1,6 @@
-# Low-latency auditory spatial attention detection based on spectro-spatial features from EEG
+# Low-Latency Auditory Spatial Attention Detection Based on Spectro-Spatial Features from EEG
 
-This repository contains the python scripts developed as a part of the work presented in the paper "Low-latency auditory spatial attention detection based on spectro-spatial features from EEG"
+This repository contains the python scripts developed as a part of the work presented in the paper "Low-Latency Auditory Spatial Attention Detection Based on Spectro-Spatial Features from EEG"
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ The public [KUL dataset](https://zenodo.org/record/3997352#.YUGaZdP7R6q) is used
 
 ![model](./pic/model.png)
 
-Paper Link: [**Low-latency auditory spatial attention detection based on spectro-spatial features from EEG**](https://arxiv.org/abs/2103.03621)
+Paper Link: [**Low-Latency Auditory Spatial Attention Detection Based on Spectro-Spatial Features from EEG**](https://arxiv.org/abs/2103.03621)
 
 The proposed convolutional neural network (CNN) with spectro-spatial feature (SSF) for auditory spatial attention detection, that is referred to as SSF-CNN model. The SSF-CNN network is trained to output two values, i.e., 0 and 1, to indicate the spatial location of the attended speaker.
 
